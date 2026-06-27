@@ -67,6 +67,13 @@ body {
     overflow: hidden;
 }
 
+.game-message {
+    min-height: 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #159A48;
+    text-align: center;
+}
 
 #start-btn {
     padding: 8px 16px;
